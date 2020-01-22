@@ -1,0 +1,57 @@
+
+body {
+  color: #414141;    /* Dark gray */
+  background-color: #FFFFFF;    /* Light gray */
+}
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+p {
+  text-align: left;
+}
+
+.synopsis {
+  color: #7E8184;        /* Light gray */
+  font-style: italic;
+  border: 2px solid #5D6063;
+}
+
+.synopsis em {
+  font-style: normal;
+}
+
+em, strong {
+  background-color: #B2D6FF;    /* Light blue */
+}
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+
+#button-2 {
+  color: #5D6063;  /* Dark gray */
+  background-color: #5995DA;    /* Blue */
+  font-weight: lighter;
+  font-style: normal;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 10px;
+
+  width: 200px;
+  margin: 20px auto;
+}
